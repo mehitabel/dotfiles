@@ -2,6 +2,8 @@ export PATH=/usr/local/bin:$PATH
 export PATH=/Users/josh/vertica/opt/vertica/bin:$PATH
 export PATH=/Users/josh/bin:$PATH
 
+alias nb="ipython notebook --pylab inline"
+
 source /Users/josh/.quiet
 
 . /usr/share/git-core/git-completion.bash
